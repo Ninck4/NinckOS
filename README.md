@@ -37,14 +37,14 @@ Server Link: https://discord.gg/c8vtwfVcNn
 
 :exclamation:   **_Check #⛔ゝunsupported & #😫ゝfaq before installing!_**
 
-##**Download:**
+## **Download:**
 **https://drive.google.com/file/d/18yDthOEEYkORpbRNbjU5HYaVENwJEZfK/view?usp=sharing**
 
 **SHA-256:**    7761506BDC191FA6B6A0F05EA691BC685B2490ECD1DAAD6E5DC1A08E4ABFB7DC
 
 **SHA1:**        F553A8DF0F5E4C4D9CE1B9AF8ADE782479626AA2
 
-##**__Post-Install:__**
+## **__Post-Install:__**
 Wait on the desktop for the script to start and answer the questions.
 For amd users do not reboot your PC during the GPU driver setup.
 If you find any bugs please let me know in the feedback channel. 
