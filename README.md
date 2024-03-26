@@ -1,4 +1,4 @@
-#**NinckOS** 💿
+# **NinckOS** 💿
 
 
 Server Link: https://discord.gg/c8vtwfVcNn
