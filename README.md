@@ -40,9 +40,9 @@ Server Link: https://discord.gg/c8vtwfVcNn
 ## **Download:**
 **https://drive.google.com/file/d/18yDthOEEYkORpbRNbjU5HYaVENwJEZfK/view?usp=sharing**
 
-**SHA-256:**    7761506BDC191FA6B6A0F05EA691BC685B2490ECD1DAAD6E5DC1A08E4ABFB7DC
+**SHA-256:**    7682C8B812AEE94C7824AA107CE4FC693BDBE44CE407839A2D540B79FE8BCDFF
 
-**SHA1:**        F553A8DF0F5E4C4D9CE1B9AF8ADE782479626AA2
+**SHA1:**        03C3EEB0BD9E23233421AC9AD0A512DBAB01D659
 
 ## **__Post-Install:__**
 Wait on the desktop for the script to start and answer the questions.
