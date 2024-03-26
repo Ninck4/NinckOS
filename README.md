@@ -3,7 +3,7 @@
 
 Server Link: https://discord.gg/c8vtwfVcNn
 
-# **🚫 Unsupported NinckOS 1809 v1: **
+# **🚫 Unsupported NinckOS 1809 v1:**
 
 
  ## ***• Windows Components :***
@@ -49,4 +49,4 @@ If you find any bugs please let me know in the feedback channel.
 If you do not have internet after installing the iso, let me know what network adapter you have and if you only use wifi, i dont know if the script will work (i dont use wifi).
 If you are using WIFI, try skipping the GPU driver installation, enabling WIFI, and restarting your PC.  
 Its my first script i ever wrote so there might be some mistakes.
-:smiling_face_with_3_hearts:
+🥰
