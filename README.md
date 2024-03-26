@@ -1,5 +1,7 @@
-### Hi there 👋
+### NinckOS 💿
 
+
+Server Link: https://discord.gg/c8vtwfVcNn
 <!--
 **NinckOS/NinckOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
