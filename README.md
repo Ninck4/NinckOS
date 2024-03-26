@@ -38,7 +38,7 @@ Server Link: https://discord.gg/c8vtwfVcNn
 :exclamation:   **_Check #⛔ゝunsupported & #😫ゝfaq before installing!_**
 
 ## **Download:**
-**https://drive.google.com/file/d/18yDthOEEYkORpbRNbjU5HYaVENwJEZfK/view?usp=sharing**
+**https://drive.google.com/file/d/1CvRKsaTszOCG2K_9IO6DrdMF-rfvXRi0/view?usp=sharing**
 
 **SHA-256:**    7682C8B812AEE94C7824AA107CE4FC693BDBE44CE407839A2D540B79FE8BCDFF
 
