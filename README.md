@@ -1,4 +1,4 @@
-### **NinckOS** 💿
+###**NinckOS** 💿
 
 
 Server Link: https://discord.gg/c8vtwfVcNn
@@ -8,31 +8,48 @@ Server Link: https://discord.gg/c8vtwfVcNn
 
  ## ***• Windows Components :***
 Windows UI Language Change (English is the only language)
+
 Windows Restore Points
+
 Windows Remote Desktop
+
 Hyper-V
+
 Bitlocker Drive Encryption
+
 Windows Update
+
 Windows Store
+
 Server
+
 XBOX Gamebar
+
 Windows Reset (use USB to reinstall Windows)
 
 
 ## ***• Games:***
 
 CoD
+
 Warzone 2
+
 FIFA 
+
 Rust
+
 Valorant
+
 Forza Horizon 
+
 (and some more games idk)
 
 
 ## **:globe_with_meridians: __NinckOS 1809 v1__**
 :radioactive:   **_NinckOS might not be for everyone._**
+
 :floppy_disk:   **_Always have a backup USB._**
+
 :exclamation:   **_Check #⛔ゝunsupported & #😫ゝfaq before installing!_**
 
 **Download:**
